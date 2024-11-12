@@ -291,7 +291,7 @@ Feel free to explore, use, and contribute to this repository to advance the deve
 For any questions or inquiries, please contact:
 
 - **Alireza Abbaszadeh**
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- Email: [link.aabz@gmail.com](mailto:link.aabz@gmail.com)
 - GitHub: [alirezaabbaszadeh](https://github.com/alirezaabbaszadeh)
 
 ---
